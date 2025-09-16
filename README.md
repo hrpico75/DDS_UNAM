@@ -14,13 +14,9 @@ Este es mi repositorio personal donde almaceno los notebooks que desarrollo como
 
 ## Contenido
 
-Notebooks organizados por módulos del diplomado:
+Notebooks del diplomado (directorio `notebooks/`):
 
-- **Módulo 1 - Fundamentos:** `lec01.ipynb`, `lec01_02.ipynb`
-- **Módulo 2 - Análisis:** `lec03_.ipynb`, `lec03_vf_.ipynb`, `lec04_.ipynb`, `lec04__vf.ipynb`
-- **Módulo 3 - Preparación:** `lec05_.ipynb`, `lec05__vf.ipynb`, `lec06__.ipynb`, `lec06__vf.ipynb`
-- **Módulo 4 - Machine Learning:** `lec07__vf.ipynb`, `lec08__.ipynb`, `lec08__vf.ipynb`, `lec09__vf.ipynb`
-- **Módulo 5 - Proyectos:** `lec10___.ipynb`, `lec10___vf.ipynb`, `lec11__vf.ipynb`
+`lec01.ipynb`, `lec01_02.ipynb`, `lec03_.ipynb`, `lec03_vf_.ipynb`, `lec04_.ipynb`, `lec04__vf.ipynb`, `lec05_.ipynb`, `lec05__vf.ipynb`, `lec06__.ipynb`, `lec06__vf.ipynb`, `lec07__vf.ipynb`, `lec08__.ipynb`, `lec08__vf.ipynb`, `lec09__vf.ipynb`, `lec10___.ipynb`, `lec10___vf.ipynb`, `lec11__vf.ipynb`
 
 ## Sobre el uso de este material
 
